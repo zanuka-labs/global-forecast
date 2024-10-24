@@ -8,3 +8,7 @@ global weather forecast experiments
 ## roadmap
   - see [issues](https://github.com/zanuka-labs/global-forecast/issues)
 
+## todo
+
+  - create initial prototype 
+
